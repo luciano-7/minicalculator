@@ -1,0 +1,1 @@
+This program works as a mini calculator. Using getopt, it allows the user to input a value and do different operations to that value with command line arguments.
