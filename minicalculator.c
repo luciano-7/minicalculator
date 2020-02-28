@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <getopt.h>
 
 void checknum(int num, char usage[]){//check if num values are between 1 and 20
 	if((num > 20) || (num < 1)){
